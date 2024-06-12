@@ -9,7 +9,11 @@ This method mainly consists of two modules: global multi-level perception module
 
 ----------
 
-The datasets used in this paper are TT-100K，NWPU VHR-10. The TT-100K can be found in https://cg.cs.tsinghua.edu.cn/traffic-sign/. NWPU VHR-10 can be found in https://github.com/lavish619/DeepLab_NWPU-VHR-10_Dataset_coco.
+The datasets used in this paper are TT-100K，NWPU VHR-10. 
+
+The TT-100K can be found in https://cg.cs.tsinghua.edu.cn/traffic-sign/. 
+
+The NWPU VHR-10 can be found in https://github.com/lavish619/DeepLab_NWPU-VHR-10_Dataset_coco.
 
 #### Requirement
 
