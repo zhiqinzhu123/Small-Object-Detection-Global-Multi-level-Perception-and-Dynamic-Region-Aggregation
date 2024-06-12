@@ -26,7 +26,7 @@ This article is implemented by Pytorch.
 ----------------------------------------------
 Z. Zhu, R. Zheng, G. Qi, S. Li, Y. Li and X. Gao, "Small Object Detection Method Based on Global Multi-level Perception and Dynamic Region Aggregation," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2024.3402097. 
 
-----------------------------------------------
+********************************************
 
 @ARTICLE{10542220,
   
