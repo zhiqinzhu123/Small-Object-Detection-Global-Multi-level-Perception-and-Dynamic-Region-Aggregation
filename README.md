@@ -3,7 +3,7 @@
 
 -----------
 
-This method mainly consists of two modules: global multi-level perception module and dynamic region aggregation module. In the global multi-level perception module, self-attention is used to perceive the global region, and its linear transformation is mapped through a convolutional network to increase the local details of global perception, thereby obtaining more refined global information. The dynamic region aggregation module, devised with a sparse strategy in mind, selectively interacts with relevant features. This design allows aggregation of key features of individual instances, effectively mitigating noise interference. Consequently, this approach addresses the challenges associated with densely distributed targets and enhances the model’s ability to discriminate on a fine-grained level. This proposed method was evaluated on two popular datasets. 
+This method mainly consists of two modules: global multi-level perception module and dynamic region aggregation module. In the global multi-level perception module, self-attention is used to perceive the global region, and its linear transformation is mapped through a convolutional network to increase the local details of global perception, thereby obtaining more refined global information. The dynamic region aggregation module, devised with a sparse strategy in mind, selectively interacts with relevant features. This design allows aggregation of key features of individual instances, effectively mitigating noise interference. Consequently, this approach addresses the challenges associated with densely distributed targets and enhances the model’s ability to discriminate on a fine-grained level. 
 
 #### DataSets
 
